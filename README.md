@@ -29,7 +29,7 @@ Pastikan Anda telah menginstal Python 3.x di sistem Anda. Anda dapat mengunduh P
 1. Jalankan skrip `main.py`:
 
     ```bash
-    python main.py
+    python bot.py
     ```
 
 2. Anda akan diminta untuk memilih format proxy yang diinginkan:
