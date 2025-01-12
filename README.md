@@ -48,15 +48,19 @@ Pastikan Anda telah menginstal Python 3.x di sistem Anda. Anda dapat mengunduh P
 
 Contoh format file `input_proxies.txt`:
 
-192.168.0.1:8080,
-10.0.0.1:3128,
-172.16.0.1:1080,
+```
+192.168.0.1:8080
+10.0.0.1:3128
+172.16.0.1:1080
+```
 
 Setelah menjalankan skrip dan memilih format HTTPS, file `formatted_proxies.txt` akan berisi:
 
+```
 https://192.168.0.1:8080,
 https://10.0.0.1:3128,
 https://172.16.0.1:1080,
+```
 
 ## Kontribusi
 
